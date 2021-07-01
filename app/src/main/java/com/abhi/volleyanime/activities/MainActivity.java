@@ -24,7 +24,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private final String JSON_URL = "https://gist.githubusercontent.com/aws1994/f583d54e5af8e56173492d3f60dd5ebf/raw/c7796ba51d5a0d37fc756cf0fd14e54434c547bc/anime.json" ;
+    private final String JSON_URL = "https://gist.githubusercontent.com/Abhishek-Santharaj/9f2fa5ac8581e7d8e22a7748cd53836b/raw/21c5edf9e32f8f47ded47dfd5c6ba51b03015ac7/animeJsonFile.json" ;
     private JsonArrayRequest request;
     private RequestQueue requestQueue;
     private List<Anime> lstAnime ;
