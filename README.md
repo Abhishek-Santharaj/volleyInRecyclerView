@@ -9,3 +9,5 @@ Volley to get data like name, description,rating,etc.
 Glide to get Image.
 
 It is displayed in recyclerView.
+
+My gist URL for JSON file is https://bit.ly/3xa22Cd .
